@@ -74,7 +74,7 @@ The preferred method of installing a custom recovery is through Download Mode{% 
     {% include alerts/note.html content="Be sure to reboot into recovery immediately after installing the custom recovery. If you don't the custom recovery will be overwritten on boot." %}
         {% include alerts/note.html content="Some Samsung devices may show a warning: 
         *This phone's bootloader is unlocked and its software integrity can't be verified. Any data on this phne may be vulnerable to attackers. PRESS POWER KEY TO CONTINUE.*
-        To continue to boot into recovery: Keep the Volume Down button pressed, release the Power button and immediately return pressing both Volume Down and Power button." %}
+        To continue to boot into recovery: release the Power button and the Volume Down button, immediately return pressing both Volume Down and Power button." %}
 {%- include snippets/recovery_logo_note.md %}
 {%- endcapture %}
 
